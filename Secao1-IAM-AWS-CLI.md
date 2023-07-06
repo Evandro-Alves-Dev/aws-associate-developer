@@ -14,6 +14,8 @@ Nesta seção ensina como e porque criar usuarios
 
 - Criar MFA para usuarios para maior segurança, ou seja, senha e outro fator de autenticação, normalmente apps (google autenticator, microsoft autenticator)
 
+- 
+
 - CLI - linha de comando
 
 - SDK's - Software Development Kit
